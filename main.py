@@ -16,6 +16,8 @@ OUTPUT = Path("/output/entry.png")
 def main() -> None:
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     shutil.copyfile(SOURCE, OUTPUT)
+    if OUTPUT.stat().st_size != SOURCE.stat().st_size:
+        raise RuntimeError("poster copy is incomplete")
 
 
 if __name__ == "__main__":
