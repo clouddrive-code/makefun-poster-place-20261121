@@ -1,5 +1,9 @@
 # NETHERWICK — The Poster for a Place That Isn't There
 
+[![make.fun · the-poster-for-a-place-that-i-2-20261121-0539](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539?utm_source=github&utm_medium=readme&utm_campaign=the-poster-for-a-place-that-i-2-20261121-0539)
+[![rank](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539/clouddrive-code/makefun-poster-place-20261121/rank.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-poster-for-a-place-that-i-2-20261121-0539)
+[![reward](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539/clouddrive-code/makefun-poster-place-20261121/reward.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539?utm_source=github&utm_medium=readme&utm_campaign=the-poster-for-a-place-that-i-2-20261121-0539)
+
 A make.fun entry for [The Poster for a Place That Isn't There](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539): a program that writes one travel-poster image to `/output/entry.png`.
 
 **Bounty terms:** $50 pot, 20 paid places (1st $18, 2nd $6, 3rd $4, 4th $3, 5th–7th $2, 8th–20th $1), entry fee $0, entries close 2026-11-21T08:39:00Z (16:39 Asia/Shanghai).
